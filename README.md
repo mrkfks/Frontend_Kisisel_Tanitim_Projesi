@@ -30,7 +30,9 @@ Bu proje, **Ömer Kafkas**'ın özgeçmişini ve portföyünü modern, responsiv
 
 ## Ekran Görüntüsü
 
-![Ekran Görüntüsü](img/screenshot.png)
+![Ekran görüntüsü 2025-06-14 203740](https://github.com/user-attachments/assets/e53a2ac5-aba3-411e-8277-e628d7c37382)
+![Ekran görüntüsü 2025-06-14 203801](https://github.com/user-attachments/assets/29f3aa1f-9b78-4a59-a310-dbcd78d6a733)
+![Ekran görüntüsü 2025-06-14 203818](https://github.com/user-attachments/assets/7f57268a-ff8f-44cf-bf7a-ec77b1312f5a)
 
 ## Lisans
 
@@ -39,7 +41,3 @@ Bu proje MIT lisansı ile lisanslanmıştır.
 ---
 
 Her türlü öneri ve katkı için iletişime geçebilirsiniz!
-
-![Ekran görüntüsü 2025-06-14 203740](https://github.com/user-attachments/assets/e53a2ac5-aba3-411e-8277-e628d7c37382)
-![Ekran görüntüsü 2025-06-14 203801](https://github.com/user-attachments/assets/29f3aa1f-9b78-4a59-a310-dbcd78d6a733)
-![Ekran görüntüsü 2025-06-14 203818](https://github.com/user-attachments/assets/7f57268a-ff8f-44cf-bf7a-ec77b1312f5a)
