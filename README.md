@@ -1,6 +1,6 @@
 # Özgeçmiş ve Kişisel Web Sitesi
 
-Bu proje, **Ömer Kafkas**'ın özgeçmişini ve portföyünü modern, responsive ve şık bir şekilde sunmak için Bootstrap 5 ile hazırlanmış bir kişisel web sitesidir.
+Bu proje, benim özgeçmişimi modern, responsive ve şık bir şekilde sunmak için Bootstrap 5 ile hazırlanmış bir kişisel web sitesidir.
 
 ## Özellikler
 
